@@ -1,4 +1,4 @@
-const DB_HOST = require("./config");
+const { DB_HOST } = require("./config");
 
 const mongoose = require("mongoose");
 
